@@ -1,0 +1,6 @@
+streamlit==1.32.0
+PyPDF2==3.0.1
+fitz==1.26.3
+base64
+tempfile
+os
