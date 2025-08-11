@@ -12,7 +12,7 @@ st.set_page_config(page_title="PDF Merger & Compressor_Rudra", layout="wide")
 st.markdown(
     """
     <div style="text-align: center; margin-bottom: 10px;">
-        <img src="https://bebpl.com/wp-content/uploads/2023/07/BLUE-ENERGY-lFINAL-LOGO.png" width="250" alt="BEBPL Logo">
+        <img src="https://github.com/Rudhra891/pdf_merger_rudra-app/blob/main/bebpl.png" width="250" alt="BEBPL Logo">
     </div>
     """,
     unsafe_allow_html=True
@@ -144,5 +144,6 @@ if st.session_state.compressed_pdf_path:
 
 st.markdown('</div>', unsafe_allow_html=True)
 # By Rudra - Geophysicist
+
 
 st.link_button("About Us","https://bebpl.com/")
