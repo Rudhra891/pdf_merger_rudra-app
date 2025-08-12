@@ -1,8 +1,11 @@
 streamlit
+pandas
 PyPDF2
 PyMuPDF
 Pillow
 xlwings
 python-dotenv
 requests
+reportlab
+openpyxl
 
